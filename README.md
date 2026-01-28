@@ -16,9 +16,13 @@ steps to run this resume website locally.
 git clone https://github.com/your-username/resume-website.git
 
 file are 
+
 resume-website/
+
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 ## Screenshots
